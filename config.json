@@ -1,5 +1,6 @@
 {
   "enabled": true,
   "fileName": "IntegracaoAPI.dll",
-  "functionName": "Initialize"
+  "functionName": "Initialize",
+  "autoRun": false
 }
